@@ -12,6 +12,9 @@ contains no scripts, executables, package dependencies, or API clients.
 npx skills add BranislavMateas/write-client-content --skill write-client-content
 ```
 
+View the listing on
+[skills.sh](https://skills.sh/branislavmateas/write-client-content/write-client-content).
+
 For a global Codex installation:
 
 ```sh
