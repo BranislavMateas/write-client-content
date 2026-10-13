@@ -1,0 +1,4 @@
+interface:
+  display_name: "Client Content"
+  short_description: "Write articles using the current client context"
+  default_prompt: "Use $write-client-content to write an article for the client in this project."
